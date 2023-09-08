@@ -3,6 +3,10 @@
 
 This repository contains a machine learning model for credit card fraud detection. The model is designed to predict whether a credit card transaction is normal or fraudulent based on a set of features extracted from the transaction.
 
+## Give it a Go!
+```
+https://credit-card-fraud-detector.onrender.com/
+```
 ## Dataset
 
 The model is trained on a labeled dataset containing historical credit card transactions, where each transaction is labeled as either normal or fraudulent. The dataset used for training is not included in this repository due to privacy and licensing reasons.
